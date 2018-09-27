@@ -1,0 +1,19 @@
+/*Element Selector*/
+p {
+	font-size: 30px;
+}
+
+h1 {
+	color: red;
+}
+
+/*ID Selector*/
+#bio {
+	color: green;
+}
+
+/*Class Selector*/
+.list {
+	color: red;
+	font-size: 20px;
+}
